@@ -61,4 +61,4 @@ personal email: <joanna1229230@gmail.com>
 </details>
 
 **More Detail About Me**
-[Resume](https://joy002.github.io/Joanna-Yang/myResume.html)
+[Resume](https://joanna230.github.io/Joanna-Yang/myResume.html)
