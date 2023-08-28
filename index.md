@@ -1,7 +1,8 @@
 I am a senior study in the Jacob School of Engineering in University of California - San Diego, major in Computer Science.<br>
 
-email: <joy002@ucsd.edu>
-personal email: <joanna1229230@gmail.com>
+Email: <joy002@ucsd.edu>
+<br>
+Secondary Email: <joanna1229230@gmail.com>
 
 <details><summary>Experience</summary>
 <p>
