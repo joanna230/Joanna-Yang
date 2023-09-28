@@ -22,7 +22,7 @@ LinkIn: Joanna Yang<br>
   - Developed study software to collect user data using Python and Javascript.
   - Completed data collection using a python script I created to scrape security advise provided online.
 - CSE15L: Software Tools and Techniques Laboratory tutor in UCSD Department of Computer Science and Engineering.
-                                                                                (1/3/2022 - 6/14/2022, 1/9/2023 - 6/16/2023)
+                                            (1/3/2022 - 6/14/2022, 1/9/2023 - 6/16/2023, 9/25/2023 - 12/19/2023)
   - Guided students in weekly 2-hour-long labs.
   - Held weekly tutor hours for students to debug and clarify class material.
   - Graded assignment and provided constructive feedback.
