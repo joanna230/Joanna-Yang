@@ -42,6 +42,8 @@ Secondary Email: <joanna1229230@gmail.com>
  > CSE 101 - Design and Analysis of Algorithm<br>
  > CSE 105 - Theory of Computation<br>
  > CSE 110 - Software Engineering<br>
+ > CSE 120 - Principles of Computer Operating Systems(Currently Taking)<br>
+ > CSE 132A - Database System Principles(Currently Taking)<br>
  > CSE 140 - Components and Design Techniques for Digital Systems<br>
  > CSE 140L - Digital Systems Lab<br>
  > CSE 141 - Principles of Computer Architecture<br>
