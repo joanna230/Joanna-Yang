@@ -64,4 +64,4 @@ Secondary Email: <joanna1229230@gmail.com>
 </details>
 
 **More Detail About Me**
-[Resume](https://joanna230.github.io/Joanna-Yang/myResume.html](https://github.com/joanna230/Joanna-Yang/blob/main/myResume.md)https://github.com/joanna230/Joanna-Yang/blob/main/myResume.md)
+[Resume](https://github.com/joanna230/Joanna-Yang/blob/main/myResume.md)
