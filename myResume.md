@@ -11,23 +11,23 @@ LinkIn: [Joanna Yang](https://www.linkedin.com/in/joanna-yang-84374117b/)<br>
 - Software Development Engineering Intern, Apple                                (6/20/2023 - 9/15/2023)<br>
   - Improved iOS Files App functionality by implementing new features using Swift and SwiftUI.<br>
 - Software Development Engineering Intern, Apple                                (6/21/2022 - 9/16/2022)<br>
-   ○ Enhanced functionality on both iOS and macOS Spotlight using Objective-C, released in iOS 17. Optimized daily workflows for billions of users.<br>
+  - Enhanced functionality on both iOS and macOS Spotlight using Objective-C, released in iOS 17. Optimized daily workflows for billions of users.<br>
 Implemented features enabling users to...<br>
-      ■ Instantly create calendar events by typing time, date, and event name(optional).<br>
-      ■ Initiate FaceTime, message, and calls by entering phone numbers or emails.<br>
-      ■ Track packages with direct links to carrier webpages using tracking numbers.<br>
+       ■ Instantly create calendar events by typing time, date, and event name(optional).<br>
+       ■ Initiate FaceTime, message, and calls by entering phone numbers or emails.<br>
+       ■ Track packages with direct links to carrier webpages using tracking numbers.<br>
 - Software/Data Science Intern, Matrix Sensor                                   (4/18/2022 - 6/16/2022)<br>
-   ○ Utilized Python to conduct data analysis and generate graphs for gas generator analysis.<br>
-   ○ Successfully refactored the interface from LabView to Python, enhancing efficiency and functionality in the
+  - Utilized Python to conduct data analysis and generate graphs for gas generator analysis.<br>
+  - Successfully refactored the interface from LabView to Python, enhancing efficiency and functionality in the
 process.<br>
 - UCSD Security and Cryptography Research Group - Undergraduate Researcher      (1/3/2022 - 6/7/2022)<br>
-   ○ Designed and implemented a comprehensive research protocol, identifying essential materials for execution of spam call research.<br>
-   ○ Developed Python and Javascript software for efficient user data collection. Executed effective data gathering through a customized Python script focused on scraping online security advice.<br>
-   ○ Certified for excellence in research and presentation at the 2022 Online Undergraduate Research Symposium.<br>
+  - Designed and implemented a comprehensive research protocol, identifying essential materials for execution of spam call research.<br>
+  - Developed Python and Javascript software for efficient user data collection. Executed effective data gathering through a customized Python script focused on scraping online security advice.<br>
+  - Certified for excellence in research and presentation at the 2022 Online Undergraduate Research Symposium.<br>
 - CSE15L: Software Tools and Techniques Laboratory tutor in UCSD Department of Computer Science and Engineering.
                                         (1/3/2022 - 6/14/2022, 1/9/2023 - 6/16/2023, 9/25/2023 - 12/19/2023)<br>
-   ○ Facilitated engaging weekly 2-hour labs for 300+ students, offering guidance and conducting dedicated tutor hours to enhance comprehension of class material. Skillfully evaluated assignments, consistently delivering constructive feedback to foster student development.<br>
-   ○ Engaged in weekly teaching staff meetings with professors, teaching assistants and fellow tutors. Played a pivotal role in enhancing communication between course staff and students, ensuring effective information flow and coordination.<br>
+  - Facilitated engaging weekly 2-hour labs for 300+ students, offering guidance and conducting dedicated tutor hours to enhance comprehension of class material. Skillfully evaluated assignments, consistently delivering constructive feedback to foster student development.<br>
+  - Engaged in weekly teaching staff meetings with professors, teaching assistants and fellow tutors. Played a pivotal role in enhancing communication between course staff and students, ensuring effective information flow and coordination.<br>
 
 **SCHOLARSHIP/AWARD/HONOR**<br>
 - Awarded scholarship by The Rick Ord Scholarship Fund, 2022-2023.<br>
