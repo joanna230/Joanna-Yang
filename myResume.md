@@ -1,59 +1,56 @@
 Email: joy002@ucsd.edu<br>
-LinkIn: Joanna Yang<br>
+LinkIn: [Joanna Yang](https://www.linkedin.com/in/joanna-yang-84374117b/)<br>
 
 --- 
 **EDUCATION:**
 - University of San Diego - Jacobs School of Engineering, B.S Computer Science<br>
-  Expected Graduation: June, 2024<br>
+  Expected Graduation: March, 2024<br>
   3.58 GPA<br>
 
 **EXPERIENCE**
 - Software Development Engineering Intern, Apple                                (6/20/2023 - 9/15/2023)
-  - Added new features on iOS Files App using Swift and SwiftUI.
+   ○ Improved iOS Files App functionality by implementing new features using Swift and SwiftUI.
 - Software Development Engineering Intern, Apple                                (6/21/2022 - 9/16/2022)
-  - Added new features on both iOS and macOS Spotlight using Objective-C, released in iOS 17. 
+   ○ Enhanced functionality on both iOS and macOS Spotlight using Objective-C, released in iOS 17. Optimized daily workflows for billions of users.
+Implemented features enabling users to...
+      ■ Instantly create calendar events by typing time, date, and event name(optional).
+      ■ Initiate FaceTime, message, and calls by entering phone numbers or emails.
+      ■ Track packages with direct links to carrier webpages using tracking numbers.
 - Software/Data Science Intern, Matrix Sensor                                   (4/18/2022 - 6/16/2022)
-  - Reduced 100+ lines code redundancy in existing script while preserving readability.
-  - Using python to implement data and create analysis graphs forcompany gas generator analysis.
-  - Built the whole protocol from scratch for operating and retrieing data from a newly purchased machine.
-  - Transform LabView to Python by re-create existing interface.
+   ○ Utilized Python to conduct data analysis and generate graphs for gas generator analysis.
+   ○ Successfully refactored the interface from LabView to Python, enhancing efficiency and functionality in the
+process.
 - UCSD Security and Cryptography Research Group - Undergraduate Researcher      (1/3/2022 - 6/7/2022)
-  - Designed a research protocol and required materials for spam call research execution.
-  - Developed study software to collect user data using Python and Javascript.
-  - Completed data collection using a python script I created to scrape security advise provided online.
+   ○ Designed and implemented a comprehensive research protocol, identifying essential materials for execution of spam call research.
+   ○ Developed Python and Javascript software for efficient user data collection. Executed effective data gathering through a customized Python script focused on scraping online security advice.
+   ○ Certified for excellence in research and presentation at the 2022 Online Undergraduate Research Symposium.
 - CSE15L: Software Tools and Techniques Laboratory tutor in UCSD Department of Computer Science and Engineering.
                                             (1/3/2022 - 6/14/2022, 1/9/2023 - 6/16/2023, 9/25/2023 - 12/19/2023)
-  - Guided students in weekly 2-hour-long labs.
-  - Held weekly tutor hours for students to debug and clarify class material.
-  - Graded assignment and provided constructive feedback.
-  - Participated in weekly teaching staff meetings with professors, teaching assistants and other tutors. Bridged the communication between course staff and students.
+   ○ Facilitated engaging weekly 2-hour labs for 300+ students, offering guidance and conducting dedicated tutor hours to enhance comprehension of class material. Skillfully evaluated assignments, consistently delivering constructive feedback to foster student development.
+   ○ Engaged in weekly teaching staff meetings with professors, teaching assistants and fellow tutors. Played a pivotal role in enhancing communication between course staff and students, ensuring effective information flow and coordination.
 
 **Scholarship/Award/Honor:**
-- Selected and Awarded $2131.5 scholarship by The Rick Ord Scholarship Fund, 2022-2023
-- Selected and Awarded $15,000 scholarship by Apple Scholar Program 2021-2022
-- Inclusion Diversity Excellence Achievement(IDEA) Scholar: Selected as 1 of 40 out of 400 applicants
-- Certificate for presenting in Online Undergraduate Research Symposium
+- Awarded scholarship by The Rick Ord Scholarship Fund, 2022-2023.
+- Awarded scholarship by HACU x Apple Scholar Program annually from 2021 to 2024.
+- Inclusion Diversity Excellence Achievement(IDEA) Scholar - Selected as 1 of 40 out of 400 applicants.
 - Provost Honors
 
 **PROJECT**
-- PreRequisite Website
-Collect information from the website(UCSD course catalog for certain majors), automatic update to the latest data. The website assists UCSD students to plan their courses.
 - Driver Dashboard
-Designed driver dashboard, which includes the speedometer, measurement of solar power energy(kWh), and other contents on the Solar car driver dashboard.
+Create a comprehensive driver dashboard for a solar car, featuring a speedometer, solar power energy
+measurement(kWh), and other essential components.
 - Alice Starter Kit with Triton Hack
-Use Alice, a block-based programming language, to build a fishing game and introduce programming to high school students with no coding experience. Produce the documentation for students to understand coding from the basics.
+Developed a beginner-friendly fishing game using Alice, a block-based programming language, to introduce high school students to programming concepts. Created detailed documentation to support students in grasping fundamental coding principles from scratch.
 
 **SKILLS:**
-- Python, Java, C, Assembly language, Objective C
-- iOS Swift Programming(with certification), SwiftUI
+- Python, Java, iOS Swift Programming(with certification), SwiftUI, Objective C, C, Assembly language
 
 - Fluent in English, Mandarin, and Taiwanese.
 - Video editing with iMovie and Davinci Resolve.
 - Social Media Content Curator for Haodaizhi.co.
 
 **LEADERSHIP:**
-- Public Relation for sapling summer camp.
-- Women In Computing (WIC) x Empowerment and Development for Girls in Engineering (EDGE) mentor for high school students
+- Mentored high school students for Women In Computing (WIC) x Empowerment and Development for Girls in Engineering.
 
 **ORGANIZATIONS:**
 - IDEA						 			                                                              2020/9 - now
