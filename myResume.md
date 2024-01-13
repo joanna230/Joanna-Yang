@@ -9,7 +9,7 @@ LinkIn: [Joanna Yang](https://www.linkedin.com/in/joanna-yang-84374117b/)<br>
 
 **EXPERIENCE**
 - Software Development Engineering Intern, Apple                                (6/20/2023 - 9/15/2023)<br>
-   ○ Improved iOS Files App functionality by implementing new features using Swift and SwiftUI.<br>
+  - Improved iOS Files App functionality by implementing new features using Swift and SwiftUI.<br>
 - Software Development Engineering Intern, Apple                                (6/21/2022 - 9/16/2022)<br>
    ○ Enhanced functionality on both iOS and macOS Spotlight using Objective-C, released in iOS 17. Optimized daily workflows for billions of users.<br>
 Implemented features enabling users to...<br>
@@ -44,7 +44,7 @@ Developed a beginner-friendly fishing game using Alice, a block-based programmin
 
 **SKILLS**<br>
 - Python, Java, iOS Swift Programming(with certification), SwiftUI, Objective C, C, Assembly language<br>
-<br>
+
 - Fluent in English, Mandarin, and Taiwanese.<br>
 - Video editing with iMovie and Davinci Resolve.<br>
 - Social Media Content Curator for Haodaizhi.co.<br>
