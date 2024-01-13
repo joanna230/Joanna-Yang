@@ -34,24 +34,24 @@ process.<br>
 - Awarded scholarship by HACU x Apple Scholar Program annually from 2021 to 2024.<br>
 - Inclusion Diversity Excellence Achievement(IDEA) Scholar - Selected as 1 of 40 out of 400 applicants.<br>
 - Provost Honors<br>
-<br>
+
 **PROJECT**<br>
 - Driver Dashboard<br>
 Create a comprehensive driver dashboard for a solar car, featuring a speedometer, solar power energy
 measurement(kWh), and other essential components.<br>
 - Alice Starter Kit with Triton Hack<br>
 Developed a beginner-friendly fishing game using Alice, a block-based programming language, to introduce high school students to programming concepts. Created detailed documentation to support students in grasping fundamental coding principles from scratch.<br>
-<br>
+
 **SKILLS:**<br>
 - Python, Java, iOS Swift Programming(with certification), SwiftUI, Objective C, C, Assembly language<br>
 <br>
 - Fluent in English, Mandarin, and Taiwanese.<br>
 - Video editing with iMovie and Davinci Resolve.<br>
 - Social Media Content Curator for Haodaizhi.co.<br>
-<br>
+
 **LEADERSHIP:**<br>
 - Mentored high school students for Women In Computing (WIC) x Empowerment and Development for Girls in Engineering.<br>
-<br>
+
 **ORGANIZATIONS:**<br>
 - IDEA						 			                                                              2020/9 - now<br>
 - Jacobs Undergraduate Mentor Program(JUMP), Mentee		                                2020/9 - now<br>
