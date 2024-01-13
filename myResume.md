@@ -25,7 +25,7 @@ process.<br>
    ○ Developed Python and Javascript software for efficient user data collection. Executed effective data gathering through a customized Python script focused on scraping online security advice.<br>
    ○ Certified for excellence in research and presentation at the 2022 Online Undergraduate Research Symposium.<br>
 - CSE15L: Software Tools and Techniques Laboratory tutor in UCSD Department of Computer Science and Engineering.
-                                            (1/3/2022 - 6/14/2022, 1/9/2023 - 6/16/2023, 9/25/2023 - 12/19/2023)
+                                        (1/3/2022 - 6/14/2022, 1/9/2023 - 6/16/2023, 9/25/2023 - 12/19/2023)<br>
    ○ Facilitated engaging weekly 2-hour labs for 300+ students, offering guidance and conducting dedicated tutor hours to enhance comprehension of class material. Skillfully evaluated assignments, consistently delivering constructive feedback to foster student development.<br>
    ○ Engaged in weekly teaching staff meetings with professors, teaching assistants and fellow tutors. Played a pivotal role in enhancing communication between course staff and students, ensuring effective information flow and coordination.<br>
 
