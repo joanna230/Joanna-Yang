@@ -1,4 +1,5 @@
-Education: Jacob School of Engineering in University of California - San Diego, major in Computer Science.<br>
+I am Joanna, studying in University of California, San Diego - Jacob School of Engineering<br>
+Major in Computer Science.<br>
 
 Email: <joy002@ucsd.edu>
 <br>
