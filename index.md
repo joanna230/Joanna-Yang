@@ -1,4 +1,4 @@
-I am a senior study in the Jacob School of Engineering in University of California - San Diego, major in Computer Science.<br>
+Education: Jacob School of Engineering in University of California - San Diego, major in Computer Science.<br>
 
 Email: <joy002@ucsd.edu>
 <br>
@@ -6,8 +6,8 @@ Secondary Email: <joanna1229230@gmail.com>
 
 <details><summary>Experience</summary>
 <p>
-
- > Software Development Engineering Intern, Apple<br>
+ > Software Development Engineering Intern 2023, Apple<br>
+ > Software Development Engineering Intern 2022, Apple<br>
  > Software/Data Science Intern, Matrix Sensor<br>
  > UCSD Security and Cryptography Research Group - Undergraduate Researcher<br>
  > CSE15L: Software Tools and Techniques Laboratory tutor in UCSD Department of Computer Science and Engineering<br>
@@ -18,8 +18,8 @@ Secondary Email: <joanna1229230@gmail.com>
 <details><summary>Scholarship/Award/Honor</summary>
 <p>
 
- > Selected and Awarded $2131.5 scholarship by The Rick Ord Scholarship Fund, 2022-2023<br>
- > Selected and Awarded $15,000 scholarship by Apple Scholar Program 2021-2022<br>
+ > Awarded scholarship by The Rick Ord Scholarship Fund, 2022-2023<br>
+ > Awarded scholarship by HACU x Apple Scholar Program annually from 2021 to 2024 - Selected as 1 of 8 out of all HACU institutions' applicants in the US<br>
  > Inclusion Diversity Excellence Achievement(IDEA) Scholar - Selected as 1 of 40 out of 400 applicants<br>
  > Certificate for presenting in Online Undergraduate Research Symposium<br>
  > Provost Honors<br>
@@ -42,14 +42,17 @@ Secondary Email: <joanna1229230@gmail.com>
  > CSE 101 - Design and Analysis of Algorithm<br>
  > CSE 105 - Theory of Computation<br>
  > CSE 110 - Software Engineering<br>
- > CSE 120 - Principles of Computer Operating Systems(Currently Taking)<br>
- > CSE 132A - Database System Principles(Currently Taking)<br>
+ > CSE 120 - Principles of Computer Operating Systems<br>
+ > CSE 127 - Intro to Computer Security(currently taking)<br>
+ > CSE 132A - Database System Principles<br>
  > CSE 140 - Components and Design Techniques for Digital Systems<br>
  > CSE 140L - Digital Systems Lab<br>
  > CSE 141 - Principles of Computer Architecture<br>
  > CSE 141L - Project in Computer Architecture<br>
  > CSE 152A - Introduction to Computer Vision<br>
  > CSE 199 - Independent Study(Research)<br>
+ > CSE 210(graduate class) - Principles of Software Engineering(currently taking)<br>
+ > CSE 251A(graduate class) - Principles of Machine Learning: Learning Algorithms(currently taking)<br>
 
 </p>
 </details>
