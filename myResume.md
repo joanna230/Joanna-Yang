@@ -45,7 +45,6 @@ Developed a beginner-friendly fishing game using Alice, a block-based programmin
 **SKILLS**<br>
 - Python, Java, iOS Swift Programming(with certification), SwiftUI, Objective C, C, Assembly language<br>
 
-
 - Fluent in English, Mandarin, and Taiwanese.<br>
 - Video editing with iMovie and Davinci Resolve.<br>
 - Social Media Content Curator for Haodaizhi.co.<br>
