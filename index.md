@@ -1,5 +1,8 @@
-I am Joanna, studying in University of California, San Diego - Jacob School of Engineering<br>
-Major in Computer Science.<br>
+Welcome to Joanna Yang's Webpage!<br>
+
+Hello, I'm Joanna Yang, a Computer Science major at the University of California, San Diego - Jacob School of Engineering. Explore my journey in software development, research, and academic achievements. From internships at Apple to hands-on research with the UCSD Security and Cryptography Research Group, I'm driven by a passion for innovation. Check out my projects, academic endeavors, and more. Let's connect and explore the possibilities of innovation together.<br>
+
+Open for any internships, part-time, or research opportunities!<br>
 
 Email: <joy002@ucsd.edu>
 <br>
