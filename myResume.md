@@ -3,14 +3,14 @@ LinkIn: [Joanna Yang](https://www.linkedin.com/in/joanna-yang-84374117b/)<br>
 
 --- 
 **EDUCATION**
-- University of San Diego - Jacobs School of Engineering, B.S Computer Science<br>
-  Expected Graduation: March, 2024<br>
+- **University of San Diego - Jacobs School of Engineering, B.S Computer Science**<br>
+  Expected Graduation: **March, 2024**<br>
   3.58 GPA<br>
 
 **EXPERIENCE**
-- Software Development Engineering Intern, Apple                                (6/20/2023 - 9/15/2023)<br>
+- **Software Development Engineering Intern, Apple**                                (6/20/2023 - 9/15/2023)<br>
   - Improved iOS Files App functionality by implementing new features using Swift and SwiftUI.<br>
-- Software Development Engineering Intern, Apple                                (6/21/2022 - 9/16/2022)<br>
+- **Software Development Engineering Intern, Apple**                                (6/21/2022 - 9/16/2022)<br>
   - Enhanced functionality on both iOS and macOS Spotlight using Objective-C, released in iOS 17. Optimized daily workflows for billions of users.<br>
 Implemented features enabling users to...<br>
        - Instantly create calendar events by typing time, date, and event name(optional).<br>
@@ -20,7 +20,7 @@ Implemented features enabling users to...<br>
   - Utilized Python to conduct data analysis and generate graphs for gas generator analysis.<br>
   - Successfully refactored the interface from LabView to Python, enhancing efficiency and functionality in the
 process.<br>
-- UCSD Security and Cryptography Research Group - Undergraduate Researcher      (1/3/2022 - 6/7/2022)<br>
+- UCSD Security and Cryptography Research Group - **Undergraduate Researcher**      (1/3/2022 - 6/7/2022)<br>
   - Designed and implemented a comprehensive research protocol, identifying essential materials for execution of spam call research.<br>
   - Developed Python and Javascript software for efficient user data collection. Executed effective data gathering through a customized Python script focused on scraping online security advice.<br>
   - Certified for excellence in research and presentation at the 2022 Online Undergraduate Research Symposium.<br>
@@ -30,8 +30,8 @@ process.<br>
   - Engaged in weekly teaching staff meetings with professors, teaching assistants and fellow tutors. Played a pivotal role in enhancing communication between course staff and students, ensuring effective information flow and coordination.<br>
 
 **SCHOLARSHIP/AWARD/HONOR**<br>
-- Awarded scholarship by The Rick Ord Scholarship Fund, 2022-2023.<br>
-- Awarded scholarship by HACU x Apple Scholar Program annually from 2021 to 2024.<br>
+- **Awarded scholarship** by The **Rick Ord Scholarship Fund**, 2022-2023.<br>
+- **Awarded scholarship** by **HACU x Apple Scholar** Program annually from 2021 to 2024.<br>
 - Inclusion Diversity Excellence Achievement(IDEA) Scholar - Selected as 1 of 40 out of 400 applicants.<br>
 - Provost Honors<br>
 
