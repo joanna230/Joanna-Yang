@@ -13,7 +13,7 @@ LinkIn: [Joanna Yang](https://www.linkedin.com/in/joanna-yang-84374117b/)<br>
 - Software Development Engineering Intern, Apple                                (6/21/2022 - 9/16/2022)<br>
   - Enhanced functionality on both iOS and macOS Spotlight using Objective-C, released in iOS 17. Optimized daily workflows for billions of users.<br>
 Implemented features enabling users to...<br>
-       ■ Instantly create calendar events by typing time, date, and event name(optional).<br>
+       - Instantly create calendar events by typing time, date, and event name(optional).<br>
        ■ Initiate FaceTime, message, and calls by entering phone numbers or emails.<br>
        ■ Track packages with direct links to carrier webpages using tracking numbers.<br>
 - Software/Data Science Intern, Matrix Sensor                                   (4/18/2022 - 6/16/2022)<br>
@@ -44,7 +44,7 @@ Developed a beginner-friendly fishing game using Alice, a block-based programmin
 
 **SKILLS**<br>
 - Python, Java, iOS Swift Programming(with certification), SwiftUI, Objective C, C, Assembly language<br>
-
+<br>
 - Fluent in English, Mandarin, and Taiwanese.<br>
 - Video editing with iMovie and Davinci Resolve.<br>
 - Social Media Content Curator for Haodaizhi.co.<br>
