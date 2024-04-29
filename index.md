@@ -1,6 +1,6 @@
 Welcome to Joanna Yang's Webpage!<br>
 
-Hello, I'm Joanna, a Computer Science major at the University of California, San Diego - Jacob School of Engineering. Explore my journey in software development, research, and academic achievements. From internships at Apple to hands-on research with the UCSD Security and Cryptography Research Group, I'm driven by a passion for innovation. Check out my projects, academic endeavors, and more. Let's connect and explore the possibilities of innovation together.<br>
+Hello, I'm Joanna, a student major in Computer Science at the University of California, San Diego - Jacob School of Engineering. My journey includes software development, research, and academic achievements. From internships at Apple to hands-on research with the UCSD Security and Cryptography Research Group, I'm driven by a passion for innovation. Check out my projects, academic endeavors, and more. Let's connect and explore the possibilities of innovation together.<br>
 
 Open for any internships, part-time, or research opportunities!<br>
 
@@ -10,6 +10,7 @@ Secondary Email: <joanna1229230@gmail.com>
 
 <details><summary>Experience</summary>
 <p>
+ > Software Development Engineering Intern 2024, Apple<br>
  > Software Development Engineering Intern 2023, Apple<br>
  > Software Development Engineering Intern 2022, Apple<br>
  > Software/Data Science Intern, Matrix Sensor<br>
@@ -47,7 +48,7 @@ Secondary Email: <joanna1229230@gmail.com>
  > CSE 105 - Theory of Computation<br>
  > CSE 110 - Software Engineering<br>
  > CSE 120 - Principles of Computer Operating Systems<br>
- > CSE 127 - Intro to Computer Security(currently taking)<br>
+ > CSE 127 - Intro to Computer Security<br>
  > CSE 132A - Database System Principles<br>
  > CSE 140 - Components and Design Techniques for Digital Systems<br>
  > CSE 140L - Digital Systems Lab<br>
@@ -55,8 +56,8 @@ Secondary Email: <joanna1229230@gmail.com>
  > CSE 141L - Project in Computer Architecture<br>
  > CSE 152A - Introduction to Computer Vision<br>
  > CSE 199 - Independent Study(Research)<br>
- > CSE 210(graduate class) - Principles of Software Engineering(currently taking)<br>
- > CSE 251A(graduate class) - Principles of Machine Learning: Learning Algorithms(currently taking)<br>
+ > CSE 210(graduate class) - Principles of Software Engineering<br>
+ > CSE 251A(graduate class) - Principles of Machine Learning: Learning Algorithms<br>
 
 </p>
 </details>
